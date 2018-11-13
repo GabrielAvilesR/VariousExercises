@@ -1,9 +1,15 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Log In with Google Example</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<h1 id="using-to-directory-to-authenticate-users">Using TO Directory to Authenticate Users</h1>
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="using-to-directory-to-authenticate-users">Using TO Directory to Authenticate Users</h1>
 <p>This is an in home made example on how to use google authentication and our TO directory in order to authenticate users and manage sessions.<br>
 Here at MOS we have a project to manage collaborators information that also hosts the service to authenticate users. It uses Google’s API services since we are also using G Suite to manage domains, emails and other services.<br>
 The TO project is hosted <a href="to.lac.mx">here</a>, and it can be found on <a href="https://bitbucket.org/worldwidemos/to/src/master/">this repo</a>.</p>
@@ -111,4 +117,7 @@ Using JQuery ajax method.</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
+</div>
+</body>
 
+</html>
